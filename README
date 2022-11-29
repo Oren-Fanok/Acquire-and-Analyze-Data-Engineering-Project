@@ -1,0 +1,8 @@
+# Acquire and Analyze Project  -  Aidan Wagers & Oren Fanok
+
+The jupyter notebook file contained in this submission functions to pull and store tweets from a variety of users and hashtags spanning conservative 
+and liberal viewpoints in the United states. The acquisition of tweets and user information is done using elevated twitter API access.
+
+Tweets are pulled from three handles and one hashtag for each of the two parties. Once tweets are pulled they are stored in dataframes according to political leaning. The pulled tweets are then cleaned and prepared for analysis.
+
+There are four analyses performed within the jupyter notebook file. The first of these analyses determines the most popular words and groups by political party. These cells produce a bar chart visualization of the most popular words and another bar chart for most popular organizations. The second analysis performed is an analysis of text patterns in each group of text. Third, each group is run through a parsing analysis that outputs the 20 most common subject-verb-object (SVO) trios. Finally, the text comparison analysis finds words disproportionately represented in one of the groups.
