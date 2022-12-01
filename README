@@ -1,4 +1,4 @@
-# Acquire and Analyze Project  -  Aidan Wagers & Oren Fanok
+Data Engineering: Acquire and Analyze
 
 The jupyter notebook file contained in this submission functions to pull and store tweets from a variety of users and hashtags spanning conservative 
 and liberal viewpoints in the United states. The acquisition of tweets and user information is done using elevated twitter API access.
