@@ -13,7 +13,7 @@ There are four analyses performed within the jupyter notebook file.
 
 The first analysis determines the most popular words and groups by political party. These cells produce a bar chart visualization of the most popular words and another bar chart for most popular organizations. 
 
-# Analysis 2: Text Patters by Party
+# Analysis 2: Text Patterns by Party
 
 The second analysis performed is an analysis of text patterns in each group of text (see my text patterns repository for specifics).
 
