@@ -19,7 +19,7 @@ The second analysis performed is an analysis of text patterns in each group of t
 
 # Analysis 3: Spacy SVO Parsing by Party
 
-Third, each group is run through a parsing analysis that outputs the 20 most common subject-verb-object (SVO) trios. 
+In the third analysis, each group is run through a parsing analysis that outputs the 20 most common subject-verb-object (SVO) trios. 
 
 # Analysis 4: Text Comparison between Parties
 
