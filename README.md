@@ -17,7 +17,7 @@ The first analysis determines the most popular words and groups by political par
 
 The second analysis performed is an analysis of text patterns in each group of text (see my text patterns repository for specifics).
 
-#Analysis 3: Spacy SVO Parsing by Party
+# Analysis 3: Spacy SVO Parsing by Party
 
 Third, each group is run through a parsing analysis that outputs the 20 most common subject-verb-object (SVO) trios. 
 
