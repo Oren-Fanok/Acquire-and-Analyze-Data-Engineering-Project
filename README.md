@@ -12,7 +12,7 @@ The first analysis determines the most popular words and groups by political par
 
 # Analysis 2: Text Patterns by Party
 
-The second analysis performed is an analysis of text patterns in each group of text (see my text patterns repository for specifics).
+The second analysis performed is an analysis of text patterns in each group of text. I will be using a function I built for a previous analysis that analyzes key patterns within text data. Here is a link to that repo for more specifics on how the function operates. 
 
 # Analysis 3: Spacy SVO Parsing by Party
 
